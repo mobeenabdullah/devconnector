@@ -6,7 +6,7 @@ import Register from './comonents/auth/Register';
 import Login from './comonents/auth/Login';
 import Alert from './comonents/layout/Alert';
 import Dashboard from './comonents/dashboard/Dashboard';
-import CreateProfile from './comonents/layout/profile-forms/CreateProfile';
+import CreateProfile from './comonents/profile-forms/CreateProfile';
 import PrivateRoute from './comonents/routing/PrivateRoute';
 
 // Redux
